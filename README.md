@@ -32,4 +32,4 @@ Features
 -Both desktop and mobile compatability 
 
 Image
-![alt text](\image\workcalender.png)
+![alt text](/image/workcalender.png)
